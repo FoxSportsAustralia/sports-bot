@@ -1,0 +1,10 @@
+{
+	"slackbotToken": "slack-bot-token",
+	"slackbotName": "sports-bot",
+	"slackbotChannel": "sportsbot",
+	"witAiAppId": "wit-ai-app-id",
+	"witAiToken": "wit-ai-token",
+	"statsApi": "http://api.stats.foxsports.com.au/3.0/api",
+	"statsApiKey": "",
+	"awesomeApi": "http://it13350:5000/api"
+}
